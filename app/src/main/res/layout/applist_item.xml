@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/button_applistItem"
+    android:layout_width="match_parent"
+    android:layout_height="46dp"
+    android:paddingLeft="25dp"
+    android:gravity="center_vertical"
+    android:background="#11F0F0F0"
+    android:textColor="#FFFFFF"
+    android:textSize="15sp"
+    android:alpha="1.0" />
